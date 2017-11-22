@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "61079387328",
+    "firebase_url": "https://chatapp-10206.firebaseio.com",
+    "project_id": "chatapp-10206",
+    "storage_bucket": "chatapp-10206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61079387328:android:692b7d383965a97f",
+        "android_client_info": {
+          "package_name": "com.example.opilane.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61079387328-1srkss02j7s207jm3mlhikplra9jrdtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opilane.chatapp",
+            "certificate_hash": "26ae44addd1cda7fef3b5c9a7f581b4db623cc12"
+          }
+        },
+        {
+          "client_id": "61079387328-q3lnltbt0a04tsi4ko0ssijdoqmg1hpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACz0Satw5yN5c04e2_DUJBN2lp7s4vc-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61079387328-q3lnltbt0a04tsi4ko0ssijdoqmg1hpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
